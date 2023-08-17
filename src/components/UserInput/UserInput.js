@@ -7,12 +7,12 @@ const INTIAL_USER_INPUT = {
   duration: 10,
 };
 
-const UserInput = () => {
+const UserInput = (props) => {
   const [userInput, setUserInput] = useState(INTIAL_USER_INPUT);
 
   const submitHandler = (e) => {
     e.preventDefault();
-    console.log('SUBMIT');
+    props.onCalculate(userInput);
   };
 
   const resetHandler = () => {
