@@ -5,4 +5,4 @@
 
 ## Get the project
 
-    * ```git clone https://github.com/willl-8523/React-Investment-Calculator.git```
+  ```bash git clone https://github.com/willl-8523/React-Investment-Calculator.git```
