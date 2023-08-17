@@ -5,4 +5,10 @@
 
 ## Get the project
 
-  ```bash git clone https://github.com/willl-8523/React-Investment-Calculator.git```
+  ```git clone https://github.com/willl-8523/React-Investment-Calculator.git```
+
+## Usage
+
+- ```npm install```
+  
+- ```npm install```
